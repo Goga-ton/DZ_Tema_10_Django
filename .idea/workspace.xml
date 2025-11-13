@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a82bc533-c267-4333-a652-49b369ab5542" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DZ_Tema_10_Django(-DJ-).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/urls.py" afterDir="false" />
+    <list default="true" id="a82bc533-c267-4333-a652-49b369ab5542" name="Changes" comment="commit2">
+      <change afterPath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/templates/page/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/templates/page/layoute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/templates/page/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/templates/page/page1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/templates/page/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/templates/page/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/templates/page/page4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_Tema_10_DJ01/page/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,15 +25,28 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Goga-ton&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Goga-ton/DZ_Tema_10_Django.git&quot;,
+    &quot;accountId&quot;: &quot;ac227246-2a5c-49d9-8bbe-7b45b295db72&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="35KPWCO6byMxkNVAFKVRp8T0yeR" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,13 +57,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Anton_B/PycharmProjects/DZ_Tema_10_Django(-DJ-)/DZ_Tema_10_DJ01/page/templates/page"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anton_B\PycharmProjects\DZ_Tema_10_Django(-DJ-)\DZ_Tema_10_DJ01\page\templates\page" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Anton_B\PycharmProjects\DZ_Tema_10_Django(-DJ-)\DZ_Tema_10_DJ01\page" />
     </key>
@@ -66,6 +88,30 @@
       <option name="presentableId" value="Default" />
       <updated>1762855819275</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <option name="closed" value="true" />
+      <created>1762858187680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762858187680</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
 </project>
