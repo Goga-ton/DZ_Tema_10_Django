@@ -1,0 +1,24 @@
+{% extends 'page/layoute.html' %}
+
+{% block title %}
+<title>ДЗ НОВОСТНАЯ СТРАНИЦА</title>
+{% endblock %}
+
+{% block content %}
+<h2 class="text-warning">Это страница Домашних НОВСТЕЙ для проекта Django в рамках ДЗ (DJ03)</h2>
+<hr>
+<br>
+{% for new in news %}
+    <div>
+        <h3>{{new.title}}</h3>
+        <p class="fw-bold">{{new.short_discription}}</p>
+        <p>{{new.text}}</p>
+        <h5>{{new.pub_data}}</h5>
+        <h5>{{new.avtor}}</h5>
+<hr>
+
+    </div>
+{% endfor %}
+
+
+{% endblock %}
