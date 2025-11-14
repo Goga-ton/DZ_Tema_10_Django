@@ -1,0 +1,42 @@
+{% extends 'films/layoute.html' %}
+
+{% block title %}
+<title>Напиши фильме</title>
+{% endblock %}
+
+{% block content %}
+<h1>Эта страница для создании записи о фильме</h1><hr>
+
+<div>
+  <h2>Добавь КИНОШКУ</h2>
+  <form method="post" class="bg-light p-4 rounded shadow-sm">
+      {% csrf_token %}
+
+      <div class="mb-3">
+          <label for="title" class="form-label fw-bold">Название фильма</label>
+<!--          <input type="text" class="form-control" id="title" placeholder="Введите заголовок новости" name="title">-->
+          {{ flcr.title }}
+      </div>
+
+      <div class="mb-3">
+          <label for="description" class="form-label fw-bold">Краткое описание</label>
+<!--          <input type="text" class="form-control" id="short_discription" placeholder="Введите краткое описание" name="short_discription">-->
+          {{ flcr.description }}
+      </div>
+
+      <div class="mb-3">
+          <label for="feedback" class="form-label fw-bold">Отзыв</label>
+<!--          <textarea class="form-control" id="text" rows="5" placeholder="Введите полный текст новости" name="text"></textarea>-->
+          {{ flcr.feedback }}
+      </div>
+
+      <div class="d-grid">
+          <button type="submit" class="btn btn-primary btn-lg">
+              <i class="bi bi-plus-circle"></i> Добавь фильм
+          </button>
+      </div>
+
+  </form>
+    <p>{{error}}</p>
+</div>
+{% endblock %}
