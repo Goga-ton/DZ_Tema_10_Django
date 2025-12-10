@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a82bc533-c267-4333-a652-49b369ab5542" name="Changes" comment="commit_DJ03" />
+    <list default="true" id="a82bc533-c267-4333-a652-49b369ab5542" name="Changes" comment="commit_DJ04">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -51,11 +53,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Anton_B/PycharmProjects/DZ_Tema_10_Django(-DJ-)/DZ_Tema_10_DJ01/page/templates/page&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Anton_B/PycharmProjects/DZ_Tema_10_Django(-DJ-)/DZ_Tema_10_DJ04_films/films/templates/films&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anton_B\PycharmProjects\DZ_Tema_10_Django(-DJ-)\DZ_Tema_10_DJ04_films\films\templates\films" />
       <recent name="C:\Users\Anton_B\PycharmProjects\DZ_Tema_10_Django(-DJ-)\DZ_Tema_10_DJ01\page\templates\page" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -65,7 +68,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-python-sdk-1f1b7bcced7d-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.29188.22" />
       </set>
     </attachedChunks>
   </component>
@@ -109,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763048270123</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit_DJ04">
+      <option name="closed" value="true" />
+      <created>1763116853491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763116853491</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +139,7 @@
     <MESSAGE value="commit_DJ02" />
     <MESSAGE value="commit_DJ02+" />
     <MESSAGE value="commit_DJ03" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_DJ03" />
+    <MESSAGE value="commit_DJ04" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_DJ04" />
   </component>
 </project>
